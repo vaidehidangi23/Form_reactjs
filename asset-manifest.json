@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaidehidangi23/Form/static/css/main.5fe2e3e2.css",
+    "main.js": "/vaidehidangi23/Form/static/js/main.a654e4e3.js",
+    "static/js/787.aeb39de0.chunk.js": "/vaidehidangi23/Form/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/vaidehidangi23/Form/index.html",
+    "main.5fe2e3e2.css.map": "/vaidehidangi23/Form/static/css/main.5fe2e3e2.css.map",
+    "main.a654e4e3.js.map": "/vaidehidangi23/Form/static/js/main.a654e4e3.js.map",
+    "787.aeb39de0.chunk.js.map": "/vaidehidangi23/Form/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe2e3e2.css",
+    "static/js/main.a654e4e3.js"
+  ]
+}
