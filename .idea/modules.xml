@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Form_reactjs.iml" filepath="$PROJECT_DIR$/.idea/Form_reactjs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NewsX/.idea/NewsX.iml" filepath="$PROJECT_DIR$/../NewsX/.idea/NewsX.iml" />
     </modules>
   </component>
 </project>
